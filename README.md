@@ -1,6 +1,6 @@
 # Spring Boot REST Client Application
 
-This is a simple Spring Boot application that demonstrates how to create a REST client using WebClient to interact with an external RESTful API.
+This is a simple Spring Boot application that demonstrates how to create a REST client to interact with an external RESTful API.
 
 ## Getting Started
 
